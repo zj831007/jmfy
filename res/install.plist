@@ -13,14 +13,20 @@
 					<key>url</key>
 					<string>http://124.207.248.6/client.ipa</string>
 				</dict>
+
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
 					<key>url</key>
 					<string>http://zj831007.github.io/jmfy/res/icon57.png</string>
 				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>http://zj831007.github.io/jmfy/res/icon512.png</string>
+				</dict>
+				
 			</array>
 			<key>metadata</key>
 			<dict>
